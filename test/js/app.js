@@ -12,12 +12,13 @@
   Para producción, no expongas el token de la Service App en el navegador.
   La generación de guest token y call token debería hacerse desde un backend.
 */
+//tok carl
 let service_app_token = 'NTRjNTBjZGEtOGM5ZC00NjVjLWIzNDctOTZmZWIzOGZkYzA5ZjFjN2U5MzAtMDRk_P0A1_13ab0633-3ac9-4201-86fb-b00be6f71b9c';
 let service_app_refresh_token = 'RDZkM2U0YmMtMzgxOS00YmUwLTk4MTYtNWY1NzAzMzc5MWUzOTg4ZWY3NjgtMjM2_P0A1_13ab0633-3ac9-4201-86fb-b00be6f71b9c';
 const service_app_client_id = 'Ca54f9127b200556fec167b0fd96db5cad625d20ba3de510d40ad6718af6699c8';
 const service_app_client_secret = 'c6af6c268a29b72348c18361f205e22086406cd4a97de8e45c0c9d3969fdd671';
 const CLICK_TO_CALL_CALLED_NUMBER = '9699';
-const CLICK_TO_CALL_GUEST_NAME = 'Unidos por la colaboración';
+const CLICK_TO_CALL_GUEST_NAME = 'Test app';
 const WEBEX_DISCOVERY_REGION = 'US-EAST';
 const WEBEX_DISCOVERY_COUNTRY = 'US';
 

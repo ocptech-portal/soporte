@@ -18,8 +18,8 @@ let service_app_refresh_token = 'RjlkNzgwZmYtY2I4NC00ZjJjLWIwZDMtODg0N2M2MzczOTV
 const service_app_client_id = 'Ca24a93779a32b746d84f9b5e3f6638c964b1cd39ad1016d2f9cdf1f469edf4f8';
 const service_app_client_secret ='1196b6748e68234410bd217add920c1d8afe295d5cbf05b3143855a9240bdb67';
 
-const CLICK_TO_CALL_CALLED_NUMBER = '+541121529603';
-const CLICK_TO_CALL_GUEST_NAME = 'soporte web';
+const CLICK_TO_CALL_CALLED_NUMBER = '9605';
+const CLICK_TO_CALL_GUEST_NAME = 'Soporte Noc';
 const WEBEX_DISCOVERY_REGION = 'US-EAST';
 const WEBEX_DISCOVERY_COUNTRY = 'US';
 

@@ -11,6 +11,7 @@
 
   Para producción, no expongas el token de la Service App en el navegador.
   La generación de guest token y call token debería hacerse desde un backend.
+  https://ocptech-portal.github.io/soporte/noc/index.html
   TOKEN JCA OCP
 */
 let service_app_token ='NjUzNWZhMzAtMTdmMC00NmI1LWIzMWItYjk4Y2MyYzg3ZWZkM2Q0MzI1M2MtMzli_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';

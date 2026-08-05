@@ -11,13 +11,15 @@
 
   Para producción, no expongas el token de la Service App en el navegador.
   La generación de guest token y call token debería hacerse desde un backend.
+  https://ocptech-portal.github.io/soporte/colaboracion/index.html
+  
 */
 let service_app_token ='NjUzNWZhMzAtMTdmMC00NmI1LWIzMWItYjk4Y2MyYzg3ZWZkM2Q0MzI1M2MtMzli_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
 let service_app_refresh_token = 'RjlkNzgwZmYtY2I4NC00ZjJjLWIwZDMtODg0N2M2MzczOTVjODJkMmVjMTktNDI2_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
 const service_app_client_id = 'Ca24a93779a32b746d84f9b5e3f6638c964b1cd39ad1016d2f9cdf1f469edf4f8';
 const service_app_client_secret ='1196b6748e68234410bd217add920c1d8afe295d5cbf05b3143855a9240bdb67';
 
-const CLICK_TO_CALL_CALLED_NUMBER = '+541121526966';
+const CLICK_TO_CALL_CALLED_NUMBER = '88901';
 const CLICK_TO_CALL_GUEST_NAME = 'Soporte Colaboracion WRTC';
 const WEBEX_DISCOVERY_REGION = 'US-EAST';
 const WEBEX_DISCOVERY_COUNTRY = 'US';

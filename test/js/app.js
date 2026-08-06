@@ -12,13 +12,14 @@
   Para producción, no expongas el token de la Service App en el navegador.
   La generación de guest token y call token debería hacerse desde un backend.
   https://ocptech-portal.github.io/soporte/test/index.html
-  ONETOKEN-OCPTECH
+  const CLICK_TO_CALL_CALLED_NUMBER = '8951';
+  CARLITOS TOKEN
+  --ONETOKEN-OCPTECH
 */
 const service_app_client_id = 'C4ee6a4567567575c77686e27299fd6ed54e98615f039cb629c45a69c7e6a4286';
 const service_app_client_secret ='7535a743a8778c8512cf7b551bc9a4d1ffbc9a3a8deb08213020f93050532683';
 let service_app_refresh_token = 'RzU4MTA1ODgtNDNkNy00MjkzLTg1ODktYTllNzY5YzIxY2YyYmI3ZTcwYTAtMGQ5_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
 let service_app_token ='OGRhYjJhMGQtM2Q1OC00MTY5LWIzMTctZjJhNWU5NjRiMDkwNWJmMGRhMTctM2Ux_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
-//const CLICK_TO_CALL_CALLED_NUMBER = '8951';
 const CLICK_TO_CALL_CALLED_NUMBER = '9605';
 const CLICK_TO_CALL_GUEST_NAME = 'Test app';
 const WEBEX_DISCOVERY_REGION = 'US-EAST';

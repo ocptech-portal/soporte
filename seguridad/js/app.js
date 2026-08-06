@@ -11,6 +11,8 @@
 
   Para producción, no expongas el token de la Service App en el navegador.
   La generación de guest token y call token debería hacerse desde un backend.
+  https://ocptech-portal.github.io/soporte/seguridad/index.html 
+  
 */
 let service_app_token = 'Mzk4N2U2ZGItNjY0NS00ZGY4LWIwYzgtNDVkNmYwZGRjZmRjMmI3MDUzOGYtZTk1_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
 let service_app_refresh_token = 'RDJhZDE5YjItY2ViMy00ZTczLWEzOTMtOWY4ZmQ5MThhN2UwZDU2YjNmNDYtOGEy_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';

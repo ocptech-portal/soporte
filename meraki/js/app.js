@@ -14,14 +14,16 @@
   
   https://ocptech-portal.github.io/soporte/meraki/index.html
   
+const CLICK_TO_CALL_CALLED_NUMBER = '88913'
+  
   JCA TOKEN
 */
-let service_app_token ='NjUzNWZhMzAtMTdmMC00NmI1LWIzMWItYjk4Y2MyYzg3ZWZkM2Q0MzI1M2MtMzli_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
-let service_app_refresh_token = 'RjlkNzgwZmYtY2I4NC00ZjJjLWIwZDMtODg0N2M2MzczOTVjODJkMmVjMTktNDI2_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
-const service_app_client_id = 'Ca24a93779a32b746d84f9b5e3f6638c964b1cd39ad1016d2f9cdf1f469edf4f8';
-const service_app_client_secret ='1196b6748e68234410bd217add920c1d8afe295d5cbf05b3143855a9240bdb67';
+const service_app_client_id = 'C4ee6a4567567575c77686e27299fd6ed54e98615f039cb629c45a69c7e6a4286';
+const service_app_client_secret ='7535a743a8778c8512cf7b551bc9a4d1ffbc9a3a8deb08213020f93050532683';
+let service_app_refresh_token = 'RzU4MTA1ODgtNDNkNy00MjkzLTg1ODktYTllNzY5YzIxY2YyYmI3ZTcwYTAtMGQ5_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
+let service_app_token ='NzdiZGFjMmUtZWFkZi00YmQzLTgyYTEtMDcwZDBlNThlN2JiNWRkMGUzOTgtM2Y0_PF84_8c3c67f5-9dba-4be8-b058-76d7afe45521';
+const CLICK_TO_CALL_CALLED_NUMBER = '9605';
 
-const CLICK_TO_CALL_CALLED_NUMBER = '88913'
 const CLICK_TO_CALL_GUEST_NAME = 'Soporte Meraki';
 const WEBEX_DISCOVERY_REGION = 'US-EAST';
 const WEBEX_DISCOVERY_COUNTRY = 'US';

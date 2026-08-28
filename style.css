@@ -165,6 +165,6 @@ footer .container {
 }
 
 .cisco-logo {
-    height: 25px; /* Ajusta el tamaño según sea necesario */
+    height: 35px; /* Ajusta el tamaño según sea necesario */
     filter: brightness(0) invert(1); /* Pone el logo de Cisco en blanco */
 }
